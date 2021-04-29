@@ -1,5 +1,5 @@
 numba==0.50.1
-llvmlite==0.33.0
+libllvm==9.0.1
 aniso8601==8.0.0
 audioread==2.1.8
 certifi==2019.11.28
